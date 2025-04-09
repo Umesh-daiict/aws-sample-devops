@@ -1,0 +1,21 @@
+{
+  "name": "aws-sample-devops",
+  "version": "1.0.0",
+  "description": "\"# aws-sample-devops\" \r my-app/\r ├── app.js\r ├── package.json\r ├── appspec.yml\r └── scripts/\r     ├── install_dependencies.sh\r     ├── start_server.sh\r     └── stop_server.sh",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umesh-daiict/aws-sample-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Umesh-daiict/aws-sample-devops/issues"
+  },
+  "homepage": "https://github.com/Umesh-daiict/aws-sample-devops#readme"
+}
